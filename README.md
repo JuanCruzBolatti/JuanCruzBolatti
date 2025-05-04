@@ -6,7 +6,7 @@ Hi there! I'm an Argentine programmer who's passionate about design and the late
 ## Skills & Technologies
 During my years as a web developer, I have worked with various systems and acquired knowledge in the following skills:
 
-![Badges](./Badges.png)
+![Badges](./Badges.png) 
 
 ## Contact
 
