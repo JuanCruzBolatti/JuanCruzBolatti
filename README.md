@@ -35,7 +35,7 @@ During my years as a developer, I have worked with various systems and acquired 
 
 ### Donation Management System
 ![Donacion](./Donacion.png)
-**Technologies:** Java 8+, Spring Boot, Maven, REST APIs, MySQL, MongoDB, MVC Architecture
+**Technologies:** Java, Spring Boot, Maven, REST APIs, MySQL, MongoDB
 * Developed a comprehensive platform for managing donors, donations, and beneficiary organizations.
 * Implemented business logic for donation allocation, tracking, and lifecycle management.
 * Designed and maintained both relational and document-oriented database structures.
